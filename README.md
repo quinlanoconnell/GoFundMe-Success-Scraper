@@ -1,12 +1,6 @@
 # GoFundMe Success Scraper
 Web scraper designed to pull various attributes from GoFundMe posts, which then are analyzed to understand what makes a campaign "successful" (funding over the median value).
 
-Here’s a short, copy-paste-ready README tailored to your GoFundMe scraper project.
-
----
-
-# GoFundMe Campaign Scraper & Outcome Modeling
-
 **Summary:** This project scrapes and analyzes ~1,000 GoFundMe campaigns to identify the text, imagery, and timing factors that predict fundraising success. We build features from campaign descriptions, image labels, and campaign duration, then train lightweight models to classify campaigns into performance tiers. 
 
 ## Goal
