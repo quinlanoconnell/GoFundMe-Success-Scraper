@@ -35,7 +35,3 @@ Determine which narrative elements, visual cues, and campaign logistics most str
   * **Text + images + duration → best overall performance** (highest accuracy in our tests). 
 * **Language that wins:** Action- and team-oriented narratives (e.g., *team, support, goal, fundraiser*) associate with higher funds; vague or transactional language (*expenses, equipment, training*) correlates with lower funds. 
 * **Images that help:** Photos depicting people in action (outdoor, celebration, coaches) outperform static/empty scenes. 
-
----
-
-Want me to also add a minimal `requirements.txt` and a short “Reproduce the paper figures” section mapping notebook cell names to outputs?
